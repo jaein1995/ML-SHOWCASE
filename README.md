@@ -22,4 +22,7 @@ I plan to add more of those notebooks, and love to get feedbacks and support so 
 1. Aritificial Neural Networks: MLP & RBM
 1. Unstructured Data: Text Analysis
 
-1. Sample data: there are a few sample data (insurance data, credit payment data, etc.) are also included in this repo
+### Sample data
+1. insurance data
+1. credit payment data
+1. SMS text data
