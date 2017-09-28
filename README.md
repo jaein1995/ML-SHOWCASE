@@ -1,6 +1,6 @@
 # ML-SHOWCASE
 This is a set of Jupyter Notebooks that show-case various machine learning algorithms gearing toward financial services.  I
-have compiled those in IBM's Data Science Experience (DSX) using mostly Python, Pandas and Scikit Learn which provides
+have compiled those in IBM's Data Science Experience (DSX) using mostly Python, Pandas and Scikit Learn, which provides
 user-friendly and intuitive API interfaces within interactive Python sessions.
 
 It is common in financial industry, especially for those companies with long histories, that are not super-accepting or have 
@@ -14,3 +14,10 @@ The Jupyter notebooks in this repo are at the introductory and beginner level so
 
 I plan to add more of those notebooks, and love to get feedbacks and support so that the repo can help solve your business problems.  
 
+## The Contents (subject to change)
+1. Regression: Machine Learning and Statistical Modelling
+1. Supervised Machine Learning: KNN, Decision Tree, Gradient Boosting
+1. Unsupervised Machine Learning: Kmeans, DBSCAN
+1. Feature Selection with KNN and Random Forest
+1. Aritificial Neural Networks: MLP & RBM
+1. Unstructured Data: Text Analysis
