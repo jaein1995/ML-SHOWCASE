@@ -21,3 +21,5 @@ I plan to add more of those notebooks, and love to get feedbacks and support so 
 1. Feature Selection with KNN and Random Forest
 1. Aritificial Neural Networks: MLP & RBM
 1. Unstructured Data: Text Analysis
+
+1. Sample data: there are a few sample data (insurance data, credit payment data, etc.) are also included in this repo
