@@ -1,4 +1,4 @@
-# ML-SHOWCASE
+# MACHINE LEARNING SHOW-CASES FOR FINANCIAL SERVICES
 This is a set of Jupyter Notebooks that show-case various machine learning algorithms gearing toward financial services.  I
 have compiled those in IBM's Data Science Experience (DSX) using mostly Python, Pandas and Scikit Learn, which provides
 user-friendly and intuitive API interfaces within interactive Python sessions.
