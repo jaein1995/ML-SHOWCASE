@@ -9,11 +9,11 @@ I plan to add more of those notebooks, and love to get feedbacks and support so 
 
 ## The Contents (subject to change)
 1. Regression: Machine Learning and Statistical Modelling
-1. Supervised Machine Learning: KNN, Decision Tree, Gradient Boosting
-1. Unsupervised Machine Learning: Kmeans, DBSCAN
-1. Feature Selection with KNN and Random Forest
-1. Aritificial Neural Networks: MLP & RBM
-1. Unstructured Data: Text Analysis
+1. Supervised Machine Learning
+1. Unsupervised Machine Learning
+1. Feature Selection
+1. Basic Aritificial Neural Networks
+1. Unstructured Data
 
 ### Sample data
 1. insurance data
